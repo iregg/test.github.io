@@ -1,0 +1,92 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Sample Posts"
+    url: https://iregg.github.io/header-image-overlay/
+  - title: "News"
+    url: https://iregg.github.io/news/
+  - title: "Video"
+    url: https://iregg.github.io/post%20formats/video-play/
+  - title: "Categories"
+    url: https://iregg.github.io/categories/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  
+# sidebar-sample links
+sidebar-sample:
+  - title: "iregg.github.io Page"
+    children:
+      - title: "1. 첫 포스팅 입니다. 설레네요."
+        url: https://iregg.github.io/first/
+      - title: "2. 사이트 모음집"
+        url: https://iregg.github.io/sitelist/
+      - title: "3. 경력기술서"
+        url: https://iregg.github.io/third/
+      - title: "4. 유투브 동영상"
+        url: https://iregg.github.io/video/
+      - title: "5. Video(You Tube)"
+        url: https://iregg.github.io/post%20formats/video-play/
+      - title: "6. Sidebar"
+        url: https://iregg.github.io/sidebar/
+  - title: "Basic Page B"
+    children:
+      - title: "Header Image Overlay"
+        url: https://iregg.github.io/header-image-overlay/
+      - title: "Table of Contents"
+        url: https://iregg.github.io/table-of-contents/
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
+        url: /
+  - title: "Parent Page C"
+    children:
+      - title: "Child Page C1"
+        url: /
+      - title: "Child Page C2"
+        url: /
+      - title: "Child Page C3"
+        url: /
+      - title: "Child Page C4"
+        url: /
+      - title: "Child Page C5"
+        url: /
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /
+      - title: "Child Page D2"
+        url: /
+
+# sidebar-news links
+sidebar-news:
+  - title: "2024년 11월 셋째주"
+    children:
+      - title: "2024-11-15(금)"
+        url: https://iregg.github.io/news/2024-11-15-news/
+  - title: "2024년 11월 넷째주"
+    children:
+      - title: "2024-11-18(월)"
+        url: https://iregg.github.io/news/2024-11-18-news/
+      - title: "2024-11-19(화)"
+        url: https://iregg.github.io/news/2024-11-19-news/
+      - title: "2024-11-20(수)"
+        url: https://iregg.github.io/news/2024-11-20-news/
+      - title: "2024-11-21(목)"
+        url: https://iregg.github.io/news/2024-11-21-news/
+      - title: "2024-11-22(금)"
+        url: https://iregg.github.io/news/2024-11-22-news/
+  - title: "2024년 11월 다섯째주"
+    children:
+      - title: "2024-11-25(월)"
+        url: https://iregg.github.io/news/2024-11-25-news/
+      - title: "2024-11-26(화)"
+        url: https://iregg.github.io/news/2024-11-26-news/
+      - title: "2024-11-27(수)"
+        url: https://iregg.github.io/news/2024-11-27-news/
